@@ -3,7 +3,7 @@ using GallowayTech.Configuration;
 using NUnit.Framework;
 
 
-namespace ConfigurationProviderTests
+namespace NUnitConfigurationProviderTests
 {
     [TestFixture]
     public class ConfigurationProviderTest
