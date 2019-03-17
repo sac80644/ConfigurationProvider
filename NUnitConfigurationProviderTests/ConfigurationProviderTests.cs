@@ -1,5 +1,5 @@
 ﻿using System;
-using Configuration;
+using GallowayTech.Configuration;
 using NUnit.Framework;
 
 

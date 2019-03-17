@@ -1,5 +1,5 @@
 ﻿using System;
-using Configuration;
+using GallowayTech.Configuration;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace MsTestConfigurationProviderTests

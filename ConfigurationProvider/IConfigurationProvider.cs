@@ -1,6 +1,6 @@
 ﻿using System.Configuration;
 
-namespace Configuration
+namespace GallowayTech.Configuration
 {
     public interface IConfigurationProvider
     {
