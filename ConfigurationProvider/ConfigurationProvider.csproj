@@ -7,7 +7,7 @@
     <ProjectGuid>{150D505F-B001-41C2-928F-FA6D28B98131}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GallowayTech.Configuration</RootNamespace>
+    <RootNamespace>Configuration</RootNamespace>
     <AssemblyName>ConfigurationProvider</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
